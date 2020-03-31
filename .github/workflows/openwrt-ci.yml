@@ -7,7 +7,7 @@
 # <https://github.com/KFERMercer/OpenWrt-CI>
 #
 
-name: OpenWrt-自编译20200325
+name: OpenWrt-自编译20200331
 
 on:
   push:
